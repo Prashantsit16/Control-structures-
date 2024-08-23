@@ -15,14 +15,11 @@ These structures help in directing program execution flow based on logical condi
 Procedure:
 Include Required Headers:
 
-cpp
-Copy code
 #include <iostream>
 using namespace std;
 Define Main Function:
 
-cpp
-Copy code
+
 int main() {
     int num;
     
