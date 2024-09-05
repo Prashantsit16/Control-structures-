@@ -72,8 +72,10 @@ int main() {
 
     return 0;
 }
-Compile and Run:
-Use a C++ compiler to compile and run the program. Enter different values to observe how the control structures handle the input and control the program flow.
+OUTPUT:
+![Screenshot 2024-09-05 152730](https://github.com/user-attachments/assets/36f62181-d509-4d01-8c13-fdfefd140731)
+![Screenshot 2024-09-05 152742](https://github.com/user-attachments/assets/60e4edd1-8adb-44e4-9089-ab9bf7c09164)
+![Screenshot 2024-09-05 152751](https://github.com/user-attachments/assets/45ec8104-9592-4ca9-b6b6-4012b001e88a)
 
 Conclusion:
 Control structures in C++ are essential for managing program flow and implementing decision-making and repetitive tasks. By using if, switch, for, while, and do-while constructs, one can create versatile and responsive programs. The examples demonstrate how these structures work in practice, reinforcing their importance in effective programming. Understanding and utilizing these control structures is crucial for developing robust and efficient code.
